@@ -1,0 +1,22 @@
+/* navber area */
+.go_ride_logo{
+    color: rgb(6, 6, 6) !important;
+    font-size: 22px;
+}
+.go_ride_nevbar li a{
+    color: rgb(1, 1, 1) !important;
+    font-weight: 500;
+    font-size: 18px;
+}
+.go_ride_nevbar button{
+    background-color: tomato !important;
+    font-weight: 600;
+    font-size: 18px;
+}
+/* slider area */
+.header_slider{
+background-color:rgba(231, 111, 81, 0.1);
+}
+.slider-icon{
+    background-color: rgba(165, 42, 42, 0.508);
+}
